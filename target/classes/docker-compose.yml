@@ -1,0 +1,7 @@
+version: "5"
+services:
+ springdockercompose:
+   image: springdockercompose:latest
+   container_name: "springdockercompose"
+   ports:
+    - 9090:8080

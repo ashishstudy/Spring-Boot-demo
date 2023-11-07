@@ -1,0 +1,8 @@
+in\ashishgoyal\springbootmongodb\repository\TodoRepository.class
+in\ashishgoyal\springbootmongodb\config\ValidationConfig.class
+in\ashishgoyal\springbootmongodb\service\TodoServiceImpl.class
+in\ashishgoyal\springbootmongodb\service\TodoService.class
+in\ashishgoyal\springbootmongodb\model\TodoDTO.class
+in\ashishgoyal\springbootmongodb\SpringbootmongodbApplication.class
+in\ashishgoyal\springbootmongodb\controller\TodoController.class
+in\ashishgoyal\springbootmongodb\exception\TodoCollectionException.class

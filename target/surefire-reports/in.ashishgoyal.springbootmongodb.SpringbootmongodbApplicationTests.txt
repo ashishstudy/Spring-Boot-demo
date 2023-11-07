@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: in.ashishgoyal.springbootmongodb.SpringbootmongodbApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.562 s - in in.ashishgoyal.springbootmongodb.SpringbootmongodbApplicationTests
