@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: todo-manage-api
+      host: taskmanager
+      uri: "taskmanager@cluster0.rpnd72o.mongodb.net"
